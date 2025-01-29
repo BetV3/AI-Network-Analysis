@@ -23,7 +23,7 @@
   - Study email protocols (SMTP, IMAP), phishing techniques (e.g., spear phishing, spoofing).  
   - Identify datasets (Enron Corpus, CIC Phishing Dataset, real-world email logs).  
 - **Week 2**:  
-  - Design system architecture (email ingestion pipeline, model serving).  
+  - ![System Architecture Diagram](system-architecture.svg)  
   - Plan feature engineering (TF-IDF, regex for URL patterns, header analysis).  
 
 #### **Phase 2: Environment Setup (Weeks 3–4)**  
